@@ -1,0 +1,24 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#1d4c2f",
+        "activityBar.activeBorder": "#845ec1",
+        "activityBar.background": "#1d4c2f",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#845ec1",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "statusBar.background": "#0f2718",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#1d4c2f",
+        "titleBar.activeBackground": "#0f2718",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#0f271899",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#0f2718",
+    "python.linting.enabled": false,
+    "eslint.enable": false,
+    "jshint.enable": false,
+    "python.pythonPath": ".env\\Scripts\\python.exe",
+    "git.ignoreLimitWarning": true
+}
