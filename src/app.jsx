@@ -2,6 +2,7 @@ import React from 'react';
 import { hot } from "react-hot-loader";
 import i from './images/New look of my terminal.png';
 import i2 from './images/production deployable.png';
+
 import './scss/main.scss';
 
 function App(){

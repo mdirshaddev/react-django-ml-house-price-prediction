@@ -17,8 +17,8 @@
     },
     "peacock.color": "#0f2718",
     "python.linting.enabled": false,
-    "eslint.enable": false,
-    "jshint.enable": false,
+    // "eslint.enable": false,
+    // "jshint.enable": false,
     "python.pythonPath": ".env\\Scripts\\python.exe",
     "git.ignoreLimitWarning": true
 }
