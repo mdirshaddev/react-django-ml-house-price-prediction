@@ -20,5 +20,17 @@
     // "eslint.enable": false,
     // "jshint.enable": false,
     "python.pythonPath": ".env\\Scripts\\python.exe",
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "IrshadTMDb",
+            "database": "IrshadTMDb",
+            "username": "postgres",
+            "password": "root"
+        }
+    ]
 }

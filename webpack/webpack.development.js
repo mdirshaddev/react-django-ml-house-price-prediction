@@ -40,6 +40,7 @@ module.exports = {
   devtool: 'eval-source-map',
   devServer: {
     contentBase: path.resolve(__dirname, '../build'),
-    historyApiFallback: true
+    historyApiFallback: true,
+    port: 3000
   },
 };
