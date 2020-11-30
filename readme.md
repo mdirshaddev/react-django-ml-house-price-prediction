@@ -1,5 +1,7 @@
 # Bangalore House Price Prediction
 
+[![Build Status](https://travis-ci.com/mdirshaddev/react-django-ml-house-price-prediction.svg?branch=main)](https://travis-ci.com/mdirshaddev/react-django-ml-house-price-prediction)
+
 **This project uses `Django` as a backend for Machine learning execution.**
 
 **For frontend part we have chosen `React.js`.**
